@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Kokteyller",
+    "name": "Margarita",
+    "description": "Tekila, Triple Sec, Lime",
+    "price": "₺590"
+  },
+  {
+    "category": "Kokteyller",
+    "name": "Negroni",
+    "description": "Gin, Campari, Vermouth",
+    "price": "₺620"
+  },
+  {
+    "category": "Biralar",
+    "name": "Efes Pilsen",
+    "description": "33 cl",
+    "price": "₺220"
+  },
+  {
+    "category": "Yemekler",
+    "name": "Cheeseburger",
+    "description": "Patates kızartması ile",
+    "price": "₺520"
+  }
+]
